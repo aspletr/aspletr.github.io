@@ -1,2 +1,2 @@
 # aspletr.github.io
-Repository for Lab 1 Geog 328
+Repository for Labs in Geog 328
