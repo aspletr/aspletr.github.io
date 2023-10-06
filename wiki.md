@@ -25,17 +25,11 @@ The large wildfire sizes in Washington State from 1984 - 2022 show a clear incre
 
 
 ### Sources
-<ul>
 
-<li> 
+[Washington Large Fires 1973-2020](https://data-wadnr.opendata.arcgis.com/datasets/wadnr::washington-large-fires-1973-2022/explore)
 
-[Washington Large Fires 1973-2020](https://data-wadnr.opendata.arcgis.com/datasets/wadnr::washington-large-fires-1973-2022/explore) </li>
 
-<li>
-
-[WSDOT-City Points](https://geo.wa.gov/datasets/cfc2b6503ecd45efa03052d7b9e28a95/about) </li>
-
-<ul>
+[WSDOT-City Points](https://geo.wa.gov/datasets/cfc2b6503ecd45efa03052d7b9e28a95/about)
 
 
 
